@@ -1,0 +1,8 @@
+FROM openjdk:17
+COPY . /app
+WORKDIR /app
+COPY .mvn .mvn
+COPY mvnw pom.xml ./
+RUN ./mvnw package
+CMD ["sh", "-c", "java -jar target/*.jar"]
+
