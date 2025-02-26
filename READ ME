@@ -5,5 +5,5 @@ Running the Project
 You can easily run the project using the Dockerized image. Simply pull the image from the following URL:
 
 Docker Hub - Smart App
-
+https://hub.docker.com/repository/docker/saidurnsu/smart/general
 After pulling the image, you can start the container and access the application.
