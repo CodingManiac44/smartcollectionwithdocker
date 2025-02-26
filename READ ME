@@ -1,0 +1,9 @@
+Project Overview
+This project is built using Java 17 and Spring Boot 3, leveraging the Collection Framework in Java for efficient data handling and manipulation.
+
+Running the Project
+You can easily run the project using the Dockerized image. Simply pull the image from the following URL:
+
+Docker Hub - Smart App
+
+After pulling the image, you can start the container and access the application.
