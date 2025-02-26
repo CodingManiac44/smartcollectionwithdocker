@@ -1,1 +1,0 @@
-The CollectionProcessor project demonstrates the fundamental use of Java collections to store and manipulate diverse data types. The project primarily focuses on utilizing ArrayList and HashSet to manage a variety of objects, including integers, strings, booleans, and other primitive types.
